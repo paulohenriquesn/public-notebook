@@ -1,0 +1,1 @@
+Edge locations are globally distributed data centers that cache content closer to users for fast delivery and reduce latency
